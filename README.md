@@ -1,5 +1,7 @@
-# MSSAPT
+# MSSAPT Demo
 (Mail Security Smasher And Penetration Tester)
+
+- This is Demo Version
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
 [+] THis IS little password cracking Project with A lot of passwords lists taked from another huge passwords cracking projects such as:
