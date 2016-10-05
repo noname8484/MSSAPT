@@ -1,4 +1,4 @@
-# MSSAPT Demo
+# MASSAPT Demo
 (Mail Security Smasher And Penetration Tester)
 
 - This is Demo Version
